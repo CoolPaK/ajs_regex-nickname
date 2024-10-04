@@ -1,5 +1,5 @@
 ## AJS_Regex-Nickname's
-
+[![Build status](https://ci.appveyor.com/api/projects/status/noi49cw0nujyc0ku?svg=true)](https://ci.appveyor.com/project/CoolPaK/ajs-regex-nickname)
 
 ---
 ## Домашнее задание к лекции «Регулярные выражения»
